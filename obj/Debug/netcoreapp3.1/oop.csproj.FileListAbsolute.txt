@@ -1,0 +1,11 @@
+C:\Users\Olalekan\Documents\TechCareer\Assignment\oop\bin\Debug\netcoreapp3.1\oop.exe
+C:\Users\Olalekan\Documents\TechCareer\Assignment\oop\bin\Debug\netcoreapp3.1\oop.deps.json
+C:\Users\Olalekan\Documents\TechCareer\Assignment\oop\bin\Debug\netcoreapp3.1\oop.runtimeconfig.json
+C:\Users\Olalekan\Documents\TechCareer\Assignment\oop\bin\Debug\netcoreapp3.1\oop.runtimeconfig.dev.json
+C:\Users\Olalekan\Documents\TechCareer\Assignment\oop\bin\Debug\netcoreapp3.1\oop.dll
+C:\Users\Olalekan\Documents\TechCareer\Assignment\oop\bin\Debug\netcoreapp3.1\oop.pdb
+C:\Users\Olalekan\Documents\TechCareer\Assignment\oop\obj\Debug\netcoreapp3.1\oop.csprojAssemblyReference.cache
+C:\Users\Olalekan\Documents\TechCareer\Assignment\oop\obj\Debug\netcoreapp3.1\oop.AssemblyInfoInputs.cache
+C:\Users\Olalekan\Documents\TechCareer\Assignment\oop\obj\Debug\netcoreapp3.1\oop.AssemblyInfo.cs
+C:\Users\Olalekan\Documents\TechCareer\Assignment\oop\obj\Debug\netcoreapp3.1\oop.dll
+C:\Users\Olalekan\Documents\TechCareer\Assignment\oop\obj\Debug\netcoreapp3.1\oop.pdb
